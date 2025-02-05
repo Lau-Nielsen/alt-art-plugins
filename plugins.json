@@ -56,7 +56,7 @@
         "releases": [
             {
                 "date": "2025-02-05",
-                "sha512sum": "D97154A23C0A0394211D0C117EDDE714DB9BCE6605B71A9C3FF1E038E5377AA5E915E61BEBFA10344BEE1AA9D4B6D3EEC3828D648E021AB511FD012DB318226E",
+                "sha512sum": "D9A7D7CC97688EA309980D7E882DB5732D99C2D30497F2BAEA58B86C37D881A2E7013ADE473B407040BAE18FB30E055B96C558C7016EEB295BC1F7BC216EBF78",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.1.jar",
                 "requires": "^1.0.0"
