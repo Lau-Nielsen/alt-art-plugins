@@ -24,7 +24,7 @@
         "releases": [
             {
                 "date": "2025-02-06",
-                "sha512sum": "B7982E22E090AA09AE17EAA42E8B3639A87616730C78DB8BDFA2403E09DE2790CE950EAA75C50D8DD2C46F0F3D7B4C29FA5E69DF5CD063C4CF1355FFEC3130A4",
+                "sha512sum": "084C7652A4AB5420AE12FF6440E48EB6C8CAC98B3DE0C77AFC774329B46A2385EAE5D84CC3A0D51A24881034B6170D211E96849852B7ADBBA05C908099792A46",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.1.jar",
                 "requires": "^1.0.0"
