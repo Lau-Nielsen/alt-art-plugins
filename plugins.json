@@ -62,5 +62,69 @@
                 "requires": "^1.0.0"
             }
         ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Altarts AIO RC",
+        "description": "Altarts AIO RC Altar",
+        "id": "altartsaiorc-plugin",
+        "releases": [
+            {
+                "date": "2025-02-06",
+                "sha512sum": "EF9C3D4BD628C96C43AD2033D20919E26BC8612B3A9AFDD64F0985EA414DD74DCDBBEF58F4E63CCFC034AF7E53FA78E8E23FE651FEE4B77CE9B60489EE14873B",
+                "version": "0.0.1",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.1.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Altarts Daeyalt miner",
+        "description": "Altarts Daeyalt miner",
+        "id": "altartsdaeyaltminer-plugin",
+        "releases": [
+            {
+                "date": "2025-02-06",
+                "sha512sum": "9D75761A7F80068B70E74B6F7E62E3D2531246691F443A8BAAB0FBF0C762B114394AECE2B194BFE46F89E5B9F3634566338FC703CA960F6BD579A4DA61D2551A",
+                "version": "0.0.2",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.2.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Altarts Glory Recharger",
+        "description": "Altarts Glory Recharger",
+        "id": "altartsgloryrecharger-plugin",
+        "releases": [
+            {
+                "date": "2025-02-06",
+                "sha512sum": "89FF3B9D244D4E77C54C29183272D561520D87CD50AB7512F962A213B03C6A7F46A6957D7DD3D3543EF57E27BCC4556C34AF234CABDCE0B04DCDA2B838601A49",
+                "version": "0.0.1",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.1.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Altarts Planker",
+        "description": "Altarts Planker",
+        "id": "altartsplanker-plugin",
+        "releases": [
+            {
+                "date": "2025-02-06",
+                "sha512sum": "EFF97F8F53B08114CCC5D321B0C454C39F407828760D11D016E1A9E3DEA14685FB41663E3623EECFF9D80C40A7A7B3D2EBA6D00A30B323095CB8F4A85CB5458F",
+                "version": "0.0.2",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.2.jar",
+                "requires": "^1.0.0"
+            }
+        ]
     }
 ]
