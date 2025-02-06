@@ -2,77 +2,13 @@
     {
         "projectUrl": "https://discord.gg/storm",
         "provider": "Storm 2",
-        "name": "AIO RC",
-        "description": "AIO RC Altar",
-        "id": "aiorc-plugin",
-        "releases": [
-            {
-                "date": "2025-02-06",
-                "sha512sum": "E2B87A240C1A75B50EFBC05F930BFCACD6A58E43DE3F2CE7DC6C800B0479543744C68C44DFD5B10C8FD34F6E6E9360007249C5FAB0914A8DC72D553AA7F29BEE",
-                "version": "0.0.1",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.1.jar",
-                "requires": "^1.0.0"
-            }
-        ]
-    },
-    {
-        "projectUrl": "https://discord.gg/storm",
-        "provider": "Storm 2",
-        "name": "Daeyalt miner",
-        "description": "Daeyalt miner",
-        "id": "daeyaltminer-plugin",
-        "releases": [
-            {
-                "date": "2025-02-06",
-                "sha512sum": "084C7652A4AB5420AE12FF6440E48EB6C8CAC98B3DE0C77AFC774329B46A2385EAE5D84CC3A0D51A24881034B6170D211E96849852B7ADBBA05C908099792A46",
-                "version": "0.0.1",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.1.jar",
-                "requires": "^1.0.0"
-            }
-        ]
-    },
-    {
-        "projectUrl": "https://discord.gg/storm",
-        "provider": "Storm 2",
-        "name": "Glory Recharger",
-        "description": "Glory Recharger",
-        "id": "gloryrecharger-plugin",
-        "releases": [
-            {
-                "date": "2025-02-06",
-                "sha512sum": "62435C88BBD631933B1C2E6CBC9FD26D6C3BDE92102EF659B1ECCD3B8CB5EB5E812490E80D8A54B2060EA9EEA975FC481BDBD68673980B5D3FC5EC5610207DA7",
-                "version": "0.0.1",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.1.jar",
-                "requires": "^1.0.0"
-            }
-        ]
-    },
-    {
-        "projectUrl": "https://discord.gg/storm",
-        "provider": "Storm 2",
-        "name": "Planker",
-        "description": "Planker",
-        "id": "planker-plugin",
-        "releases": [
-            {
-                "date": "2025-02-06",
-                "sha512sum": "5C92823D84F91D54EB5364E8A35FC735838D0AA72D4F45E3A5DE6C783CE3F0C8F5DF33D1B0B6D78ECDD578A7A22262953D6F628884D757607F69EC9BB0F07ABE",
-                "version": "0.0.1",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.1.jar",
-                "requires": "^1.0.0"
-            }
-        ]
-    },
-    {
-        "projectUrl": "https://discord.gg/storm",
-        "provider": "Storm 2",
         "name": "Altarts AIO RC",
         "description": "Altarts AIO RC Altar",
         "id": "altartsaiorc-plugin",
         "releases": [
             {
                 "date": "2025-02-06",
-                "sha512sum": "EF9C3D4BD628C96C43AD2033D20919E26BC8612B3A9AFDD64F0985EA414DD74DCDBBEF58F4E63CCFC034AF7E53FA78E8E23FE651FEE4B77CE9B60489EE14873B",
+                "sha512sum": "362D1FF4CC1FF0D4C7D95F3A5B703CDC0E22EF861918E7BD2AD3712A454F7852C6F6B4F5A00C1437FB8FFD7F9A307BDC60F6EECE1ABA364CECC3D4C3795D8559",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.1.jar",
                 "requires": "^1.0.0"
@@ -104,7 +40,7 @@
         "releases": [
             {
                 "date": "2025-02-06",
-                "sha512sum": "89FF3B9D244D4E77C54C29183272D561520D87CD50AB7512F962A213B03C6A7F46A6957D7DD3D3543EF57E27BCC4556C34AF234CABDCE0B04DCDA2B838601A49",
+                "sha512sum": "348A6AE38E854A9B11C5BB7BFE936ECDAF6EF4916C6FCA2BF60C077AD1A851EA12347898AA27A8BA6CF5FF05B08ACDFC4CC7F7275111DB8DAEF379B3BBCD2E20",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.1.jar",
                 "requires": "^1.0.0"
@@ -120,9 +56,9 @@
         "releases": [
             {
                 "date": "2025-02-06",
-                "sha512sum": "EFF97F8F53B08114CCC5D321B0C454C39F407828760D11D016E1A9E3DEA14685FB41663E3623EECFF9D80C40A7A7B3D2EBA6D00A30B323095CB8F4A85CB5458F",
-                "version": "0.0.2",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.2.jar",
+                "sha512sum": "C4D884F9CCD34B89A7BB016CD9D1FD5BD7F8C13034DFF8ED1A4626128D0255ECFBB05A7008B806E9429761AED2A48A5AE961EAE6055E12628C095BEFBA3F81E9",
+                "version": "0.0.3",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.3.jar",
                 "requires": "^1.0.0"
             }
         ]
