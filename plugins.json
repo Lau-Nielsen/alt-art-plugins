@@ -40,7 +40,7 @@
         "releases": [
             {
                 "date": "2025-02-07",
-                "sha512sum": "9514D47B4E46B4DCBD4CE66C92BF29B83C7B0E1A7486A17BECF0F56838A98A2635F22B480D8126586261FB59DFC1FF0B3984E4E762F735BD684560AED3EBE752",
+                "sha512sum": "3217F1F60E9BFCFDDD03EFE4C150895AFBD3FBA282FFB0B20C5097F2FEF7A241FBDB24BD04E771E50B2602283E26778462195A07D7DEEF6BE3D6906DFCA37466",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.1.jar",
                 "requires": "^1.0.0"
