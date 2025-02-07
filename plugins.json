@@ -8,7 +8,7 @@
         "releases": [
             {
                 "date": "2025-02-07",
-                "sha512sum": "AA5EAF6621FDF62D0E5BC94C39CD9D0574140EE7D14C6B59AAD7A865BC1C1541066283A31731318E9ACCA309CD88CF39802F21E7A76264EF2FAEE77620C69B18",
+                "sha512sum": "32EC13F695185106543ADEEFDD6EDD4A2EF0D55500FB63936BD871CEC0A3DFCC5B3B46942615420C4A9E29FF0A82529B7362990B90C208E1092BF02CD50B3A85",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.1.jar",
                 "requires": "^1.0.0"
@@ -56,9 +56,9 @@
         "releases": [
             {
                 "date": "2025-02-07",
-                "sha512sum": "EFE0E6F1A5B17682114A0CD6CAFF39E39D99EF35163C9F22A2A048CB35F0FFAE3832DE3C57CF0FE29DEA25317324646B50C43EB45039D0BB3B7EEB66DCCCD0D5",
-                "version": "0.0.4",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.4.jar",
+                "sha512sum": "85C2478AEF5D6E963219D0404824BDECE524E3BCE26CF01E39048B10982267975358A86503D9D1A19200BFC8A1EE8F06D521BD9F21538C59B4BCB89E334FD0C1",
+                "version": "0.0.5",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.5.jar",
                 "requires": "^1.0.0"
             }
         ]
