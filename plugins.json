@@ -7,8 +7,8 @@
         "id": "altartsaiorc-plugin",
         "releases": [
             {
-                "date": "2025-02-06",
-                "sha512sum": "362D1FF4CC1FF0D4C7D95F3A5B703CDC0E22EF861918E7BD2AD3712A454F7852C6F6B4F5A00C1437FB8FFD7F9A307BDC60F6EECE1ABA364CECC3D4C3795D8559",
+                "date": "2025-02-07",
+                "sha512sum": "B02D9156A3852D5434115786BC6A44C9CAEE962A9280562232679598EF7B24BB68C72360DE0D33311E6CC85C2246CF863404883A187C6D4AD9BB77D145FC24CA",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.1.jar",
                 "requires": "^1.0.0"
@@ -23,8 +23,8 @@
         "id": "altartsdaeyaltminer-plugin",
         "releases": [
             {
-                "date": "2025-02-06",
-                "sha512sum": "9D75761A7F80068B70E74B6F7E62E3D2531246691F443A8BAAB0FBF0C762B114394AECE2B194BFE46F89E5B9F3634566338FC703CA960F6BD579A4DA61D2551A",
+                "date": "2025-02-07",
+                "sha512sum": "673F9D24BE2FACA00AEDD1A9CF71F31F3808BCF8881FCEFE0E728D78DA91490DBC682CA4596D311C973E1E3002462E1CA80B0A3B4C0B259C2FD311511DCA4386",
                 "version": "0.0.2",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.2.jar",
                 "requires": "^1.0.0"
@@ -39,8 +39,8 @@
         "id": "altartsgloryrecharger-plugin",
         "releases": [
             {
-                "date": "2025-02-06",
-                "sha512sum": "348A6AE38E854A9B11C5BB7BFE936ECDAF6EF4916C6FCA2BF60C077AD1A851EA12347898AA27A8BA6CF5FF05B08ACDFC4CC7F7275111DB8DAEF379B3BBCD2E20",
+                "date": "2025-02-07",
+                "sha512sum": "9514D47B4E46B4DCBD4CE66C92BF29B83C7B0E1A7486A17BECF0F56838A98A2635F22B480D8126586261FB59DFC1FF0B3984E4E762F735BD684560AED3EBE752",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.1.jar",
                 "requires": "^1.0.0"
@@ -55,8 +55,8 @@
         "id": "altartsplanker-plugin",
         "releases": [
             {
-                "date": "2025-02-06",
-                "sha512sum": "C4D884F9CCD34B89A7BB016CD9D1FD5BD7F8C13034DFF8ED1A4626128D0255ECFBB05A7008B806E9429761AED2A48A5AE961EAE6055E12628C095BEFBA3F81E9",
+                "date": "2025-02-07",
+                "sha512sum": "1A01C47A45FEF824821BEF80D06EFD65614792B4C511E254069AE92F6C23AD5756ED071C2B1802329000DC25798B69A2F6D5316A332DE00DD78CC9E2F41F8B3E",
                 "version": "0.0.3",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.3.jar",
                 "requires": "^1.0.0"
