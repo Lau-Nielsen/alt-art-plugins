@@ -56,7 +56,7 @@
         "releases": [
             {
                 "date": "2025-02-08",
-                "sha512sum": "B4680614290093E1FAB13F6C4E0FF1F766DA43A45CBE2A97628654E8B5F0453D10216BFEE7EFA2D78AC7AB0DDFB61E218CD86349DACD91999006607A2CBB0491",
+                "sha512sum": "A5F7EAF1EEBE8161750B80DCF89E722B220C688C57EE1E600156C5F1DF333EC69229D6D2D2662DE476AFF18A56E53B31AC1875B052D7E1B62FFD3446EED8084E",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/kourend-rc-0.0.1.jar",
                 "requires": "^1.0.0"
