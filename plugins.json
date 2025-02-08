@@ -24,13 +24,6 @@
         "releases": [
             {
                 "date": "2025-02-08",
-                "sha512sum": "DC6E6EA35A1E7D15C90664048AAEC53D929CAD7C09B1831F54606DB28B54E4D884309454FB3A12B551F747925395BB0AE420E389F331E7B6934BA9F6C295106B",
-                "version": "0.0.3",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.3.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2025-02-08",
                 "sha512sum": "6BAE9819A916726A7A272F6BB5FF8EF4576E2378A42B56D73510A0049F010E75E32272B3D06DA8534809E429E4BDA46D6FA7E8ABD0EAC96AFDD26B710624DA2E",
                 "version": "0.0.4",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.4.jar",
@@ -57,13 +50,29 @@
     {
         "projectUrl": "https://discord.gg/storm",
         "provider": "Storm 2",
+        "name": "Altarts Kourend RC",
+        "description": "Altarts Kourend RC",
+        "id": "altartskourendrc-plugin",
+        "releases": [
+            {
+                "date": "2025-02-08",
+                "sha512sum": "28CC6762C073245EF64189D06BEAD347AA2673E7B608F1FCD3833897DD0630F09A7C71CD9BED770BA69C14B5B9791AF29C242BA0647A4F849FA7F4AC39A77C3A",
+                "version": "0.0.1",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/kourend-rc-0.0.1.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
         "name": "Altarts Planker",
         "description": "Altarts Planker",
         "id": "altartsplanker-plugin",
         "releases": [
             {
                 "date": "2025-02-08",
-                "sha512sum": "8F8EB34042E6152312045BD4F91E703735D3425AEA4CB79E3A8A0981B1B63B9E5924D692C56A275F8FFCBF3714E764822AB112509BBF04A59E6DF62D2561147D",
+                "sha512sum": "84B42B1EEB0D3C173B7B6092B2641B36DEA1EF0A878D253614C130169A457BC2349FAF546235DF7D5134D9D40E5453EC508F2DF5596CDAE2A25D0F40550B5F2F",
                 "version": "0.0.5",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.5.jar",
                 "requires": "^1.0.0"
