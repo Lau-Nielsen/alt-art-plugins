@@ -56,7 +56,7 @@
         "releases": [
             {
                 "date": "2025-02-08",
-                "sha512sum": "28CC6762C073245EF64189D06BEAD347AA2673E7B608F1FCD3833897DD0630F09A7C71CD9BED770BA69C14B5B9791AF29C242BA0647A4F849FA7F4AC39A77C3A",
+                "sha512sum": "9B98171E267ACA89D83685FB887D9C920AF72721303EE0F5554A60CA8ECF08A752B3533759D7309287B6D937EAE022EA01149DDA3E48DF9B710BE942E885734F",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/kourend-rc-0.0.1.jar",
                 "requires": "^1.0.0"
@@ -72,7 +72,7 @@
         "releases": [
             {
                 "date": "2025-02-08",
-                "sha512sum": "84B42B1EEB0D3C173B7B6092B2641B36DEA1EF0A878D253614C130169A457BC2349FAF546235DF7D5134D9D40E5453EC508F2DF5596CDAE2A25D0F40550B5F2F",
+                "sha512sum": "EE437D0AA20E1A36E9964668937F739F9131C8A91AD633F8D8AA145359740271069F9EA7BCFE4F332E82D8483DC57D25659D697960D340878C0CEFEA8F55A65C",
                 "version": "0.0.5",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.5.jar",
                 "requires": "^1.0.0"
