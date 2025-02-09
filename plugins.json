@@ -7,7 +7,7 @@
         "id": "altartsaiorc-plugin",
         "releases": [
             {
-                "date": "2025-02-08",
+                "date": "2025-02-09",
                 "sha512sum": "EB6BDD9622C362DF60BB8B3D5BCD7DCABEECB76E76D6080711AC1C733F418E1D9EA053E60EC3BC4623B132AE7B8881DF0BD208751F9912AF50C4742663EDC227",
                 "version": "0.0.2",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.2.jar",
@@ -23,7 +23,7 @@
         "id": "altartsdaeyaltminer-plugin",
         "releases": [
             {
-                "date": "2025-02-08",
+                "date": "2025-02-09",
                 "sha512sum": "8ED9E281C9967E12CEE2D7CE79FA5C29FD87FD72BD3825ACBDF891C013ECDB98013166E2177E1800E6A9A969FC20024DBDF5146343E6A7B5342559A66E0D591F",
                 "version": "0.0.4",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.4.jar",
@@ -39,7 +39,7 @@
         "id": "altartsgloryrecharger-plugin",
         "releases": [
             {
-                "date": "2025-02-08",
+                "date": "2025-02-09",
                 "sha512sum": "B03D59ED96F818AF8C491B490813182FD6923735F5012277FF3A527651AB05199A607FB32306D056E2B42D8F40ADBC0DA72FAAFCEF02566E29B4579465F96267",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.1.jar",
@@ -60,6 +60,13 @@
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/kourend-rc-0.0.1.jar",
                 "requires": "^1.0.0"
+            },
+            {
+                "date": "2025-02-09",
+                "sha512sum": "57D4F95D0EFD7111C9ADE0ADAF4F71D0E4F2F8DAE43EF205285426440CD65492FFC538FA7491AB3B513A2B815B594DC9F2F3E4974C260D8CBFB1B6890F847D75",
+                "version": "0.0.2",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/kourend-rc-0.0.2.jar",
+                "requires": "^1.0.0"
             }
         ]
     },
@@ -71,7 +78,7 @@
         "id": "altartsplanker-plugin",
         "releases": [
             {
-                "date": "2025-02-08",
+                "date": "2025-02-09",
                 "sha512sum": "4BC59867445204140B261CB3A6981393EA919B2ACF791432AC264390764D53E5D6BC0042194C3763233437E7EEF03840521CD5785F297B059C8318051ABA54A3",
                 "version": "0.0.6",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.6.jar",
