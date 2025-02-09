@@ -40,9 +40,16 @@
         "releases": [
             {
                 "date": "2025-02-09",
-                "sha512sum": "C636E706C0AD09EC13A54758D7040C61AC84E37684B5638714929453514A193AADABEB286D9E28CCE7F4B0E09B0EC28ADA2CD5BF338425FEF8617F095A6B83B5",
+                "sha512sum": "87E75DD376A75F181CD259FCD81D7931D65C59036C05AD4031F51C25E0F7D7082A702C88F54B5C0A7AE4B221073B5CBEA4908204ED064CD7CE58798A1AFF051C",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.1.jar",
+                "requires": "^1.0.0"
+            },
+            {
+                "date": "2025-02-09",
+                "sha512sum": "DC059A039428BDAAA073CD684DF9C3593634EDC1BA68EE7EC4B75E9C8CE12224066ED5729239B943882763F0EC44BC80F4C18ABD7989D1ED0ABE191D690ECBFF",
+                "version": "0.0.2",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.2.jar",
                 "requires": "^1.0.0"
             }
         ]
@@ -82,6 +89,22 @@
                 "sha512sum": "3EE598B60022D3BA8D49AFF2E455ED762008F5CC01FEB668F7E82E15BB1A2E7666049A49B1A89841970B316A0845A2063792728E36A9638EF382E2C94A04ABE9",
                 "version": "0.0.6",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.6.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Altarts Volcanic Mine",
+        "description": "Altarts Volcanic Mine",
+        "id": "altartsvolcanicmine-plugin",
+        "releases": [
+            {
+                "date": "2025-02-09",
+                "sha512sum": "B59FFFDFF6ED68977FEB7E68BFFA5538537E85534EF58384579821B841AC4643CEA0B20685BB783CFA21C489E717C238801CD0E4F6EB7A4EF94D47894EAE80D0",
+                "version": "0.0.1",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.1.jar",
                 "requires": "^1.0.0"
             }
         ]
