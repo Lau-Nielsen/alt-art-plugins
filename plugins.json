@@ -102,7 +102,7 @@
         "releases": [
             {
                 "date": "2025-02-09",
-                "sha512sum": "773D6221BAF5F0319FA8A4DD63AC00DEFE86785F0C98E7799E5E292162421E2EADD31E021760EE6AB8D3E38DB9D7B42C6FB2BED5D3B1BB6D59A2DA6A448C29D2",
+                "sha512sum": "D2712692372B4BBC3E501BFBF410C12D43A595EEA161418BCDFDF8D9B492605A6DE90B27C5065229414867D8E633CEB7A2870B68FC8B46113FA11035111D67F3",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.1.jar",
                 "requires": "^1.0.0"
