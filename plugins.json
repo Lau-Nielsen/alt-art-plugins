@@ -70,7 +70,7 @@
             },
             {
                 "date": "2025-02-09",
-                "sha512sum": "45C773D50E9272C8A4C71DF1A8FD9BD40FA28CC96764DC9205F3A2A81677085113A3A9896F88250E8BDB473417078851F1FFC50A34A0FE79440C7FB4E77462B0",
+                "sha512sum": "7ECD45D07B4DDFA314CDB20C72CB41DF0E6F28D577561FF971AB5E6FD8662EB572F6CD242597351BA03B890E27CA76848EB35DA470762047C216B2FFF78B9F52",
                 "version": "0.0.2",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/kourend-rc-0.0.2.jar",
                 "requires": "^1.0.0"
@@ -102,7 +102,7 @@
         "releases": [
             {
                 "date": "2025-02-09",
-                "sha512sum": "B59FFFDFF6ED68977FEB7E68BFFA5538537E85534EF58384579821B841AC4643CEA0B20685BB783CFA21C489E717C238801CD0E4F6EB7A4EF94D47894EAE80D0",
+                "sha512sum": "773D6221BAF5F0319FA8A4DD63AC00DEFE86785F0C98E7799E5E292162421E2EADD31E021760EE6AB8D3E38DB9D7B42C6FB2BED5D3B1BB6D59A2DA6A448C29D2",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.1.jar",
                 "requires": "^1.0.0"
