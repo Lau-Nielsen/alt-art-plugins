@@ -24,7 +24,7 @@
         "releases": [
             {
                 "date": "2025-02-10",
-                "sha512sum": "418DB3E6AB9C1780F5D6A2069A753A7C208A8E2A72EA995B3D033E79590CE62A8FACEF8668C238DB4EBE4ACE5B294747E1E5317BF9BE71DFC36AB3A9486068A3",
+                "sha512sum": "76AAE3283585AEA93A453A5A726EAAE23E96E1E0965A71B7EA33FAB4661C0D642284E778872AF513371EBD86A955B5860E7F9271A5ABBE4ABC7499652449B222",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/cure-me-0.0.1.jar",
                 "requires": "^1.0.0"
