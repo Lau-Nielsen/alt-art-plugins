@@ -139,9 +139,9 @@
             },
             {
                 "date": "2025-02-12",
-                "sha512sum": "90A6A909C92ADFA1FDCAFF2691A9D0B66D36845024D4D5B3348506E9051467B037EC199B5B8B89632109B99D7AA507B3E2FB9D53D8386500D73A364EEF40FC11",
-                "version": "0.0.4",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.4.jar",
+                "sha512sum": "7FD90A9BDCB48B768142BF245F33363C724881062C4C454E1CE6BB5DC1AB334F190B52D16E9758A78B6AF8988BC8FE5618842DAF63CBFF74E7C9B82AA8634C6A",
+                "version": "0.0.5",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.5.jar",
                 "requires": "^1.0.0"
             }
         ]
