@@ -12,6 +12,13 @@
                 "version": "0.0.2",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.2.jar",
                 "requires": "^1.0.0"
+            },
+            {
+                "date": "2025-02-12",
+                "sha512sum": "ABE1A59030DA29565611409997A9A6846858172BAC9D1678369D356C87E69E9054E3E3AA671B5DABDC8B16FCD20E90C25F7612D9F15B65B92842CF8061E9A3C8",
+                "version": "0.0.4",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.4.jar",
+                "requires": "^1.0.0"
             }
         ]
     },
