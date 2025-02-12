@@ -8,16 +8,9 @@
         "releases": [
             {
                 "date": "2025-02-12",
-                "sha512sum": "4E8AA7891C33BB0D6ACF5313B5167E46C62DB91E06F65B6DA325F1C9BE75176914A36984BF9CC7E0ABA4A00DFCE4273395BDF145D28021D285B03CB061F7B212",
+                "sha512sum": "2ECC46ABD48A7E9AE576A0D7269A38559220D016849F051741685873684A515974AF0C63B033A0E6DA2F684ED515438A62DC52A4DBE3A529880202950514D791",
                 "version": "0.0.2",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.2.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2025-02-12",
-                "sha512sum": "E46526795CF11BEAEDCA9B93A5642241CCBA807BC3DB8A29932B418FDC6D477032AF8B7EC3E0D9AE9093833978570BE844A1B67E42483A551248D717FB6A29D1",
-                "version": "0.0.3",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.3.jar",
                 "requires": "^1.0.0"
             }
         ]
@@ -38,7 +31,7 @@
             },
             {
                 "date": "2025-02-12",
-                "sha512sum": "0301DAE244424C09D098347860A5FC818443BCB995B67339EF11020262A7998CE93E0111CA96ECCF6E03AC4E4CF501211D0E69219914347FB551EEF60A639615",
+                "sha512sum": "8614C2BF9600AE8F20962CFB53D9500D0738B959440F353679622048797341A769D45697A557D987681606E1B59EE6B807496778B11E8398B6CBF14CFFEACBC6",
                 "version": "0.0.3",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/cure-me-0.0.3.jar",
                 "requires": "^1.0.0"
@@ -54,7 +47,7 @@
         "releases": [
             {
                 "date": "2025-02-12",
-                "sha512sum": "DDE60728AD5DCB2FD291D34CB39E3A09D3DC4AD9E4E042ED5EBBB43087DA3C0473050E4F39E8A3D52B344920FB442CA95032D40861B09360E35449AC10979F48",
+                "sha512sum": "862901E6D87B614C901D77BED81E35E400DC12FF2A0EFF4BAA81CAFA1EA5AEE13A1A45BC184E3290A8AC695576BCC896144303D03D55E665FAB77657B1B9F0C3",
                 "version": "0.0.4",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/daeyalt-miner-0.0.4.jar",
                 "requires": "^1.0.0"
@@ -77,7 +70,7 @@
             },
             {
                 "date": "2025-02-12",
-                "sha512sum": "CB0DE1DCE77D35D86B07F266B84FF38CD3A99375FCBEB06F264B6F948DAD0F0392E6F655CA0EDF4F04C944B1946BF279075FA93D4D10D112ACA220CC580C0974",
+                "sha512sum": "53621B200559FDAE7242F42919E0941D5AE4020EE15D61521626862B92CADF1635E1FF7C270D47ECEC2EC1E0B7DB9B4569C86E4EB17C35DD844FE80E95275120",
                 "version": "0.0.4",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/glory-recharger-0.0.4.jar",
                 "requires": "^1.0.0"
@@ -93,7 +86,7 @@
         "releases": [
             {
                 "date": "2025-02-12",
-                "sha512sum": "EC6EB79F94F2B801F4547379921B550E1AC206016662B4A6266AD7C044EE02A6229D45CBDD884B38AA4088A9937FDDE3AACE96825A9DA1F4E2FD5E64DFA82606",
+                "sha512sum": "1E1DCB35992A8D3B673337C946C92929A4F2693BABF21179910DFD554B54C5351B5857B6ABF5C19B208F0C4898427EBD8B1208FB98125B000025143F2421D7A4",
                 "version": "0.0.2",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/kourend-rc-0.0.2.jar",
                 "requires": "^1.0.0"
@@ -109,7 +102,7 @@
         "releases": [
             {
                 "date": "2025-02-12",
-                "sha512sum": "6EB73DE02B880013BB453D4C0662D442D0B3BD806FFE0FBB35D74A19BCBF60DE593FC640BF7C7FA9169FF0CC0B6F58FAA2D901D7FE849A2DB1C312DE663DB862",
+                "sha512sum": "6CA990034CBD84EAA84B3CF0543F807C1CA1A3D93B088DF27284F6A00E12A6F719550E21F17459B98B8A7D3D287C1E7340DD073400603488461B5F09541419BE",
                 "version": "0.0.6",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/planker-0.0.6.jar",
                 "requires": "^1.0.0"
@@ -125,7 +118,7 @@
         "releases": [
             {
                 "date": "2025-02-12",
-                "sha512sum": "5D4F9232AF7A469EA957F3D477DC636F3D2A4B2BC922F13C370A8F65956A159172FF0D077B975EE280C36DCDE75CF09DF5CD7AAB86815ED4F96E7272448CC430",
+                "sha512sum": "358E9DC0CBD627D92648177D8A2D9731B8AA74D95415E564C444DA79AFBD08C0E6959E8CC80A370FD562B0D84193C8A62FA0996C1027306537C252D21F9BBE4D",
                 "version": "0.0.1",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.1.jar",
                 "requires": "^1.0.0"
