@@ -15,9 +15,9 @@
             },
             {
                 "date": "2025-02-12",
-                "sha512sum": "025431D212BCAA03B46AC042F334523EB470D071B55A9D6D39055CCE4DDCC67131BBE54DB8FD0A8C4291B9F7EB486CC3AC306336E478AA302B77C43715451AB6",
-                "version": "0.0.4",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.4.jar",
+                "sha512sum": "96A96976BE874374F23B761CA9B8358CB3A91AD42EDB4358CAA5B99205F145DCB3153FFDEA2DAFD271DC18DC7422D085578CA0A42FEC92F765457C7B1261DB65",
+                "version": "0.0.5",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.5.jar",
                 "requires": "^1.0.0"
             }
         ]
@@ -38,9 +38,16 @@
             },
             {
                 "date": "2025-02-12",
-                "sha512sum": "ED751E1CCD15E8FF681F735144FA8DF4B803C7BCA180580F3CDC5B8380255292DA35764B753CD58762547DE8A1C96672ABBEA78D1AAAC22E474B09EF74BF39CB",
+                "sha512sum": "8614C2BF9600AE8F20962CFB53D9500D0738B959440F353679622048797341A769D45697A557D987681606E1B59EE6B807496778B11E8398B6CBF14CFFEACBC6",
                 "version": "0.0.3",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/cure-me-0.0.3.jar",
+                "requires": "^1.0.0"
+            },
+            {
+                "date": "2025-02-12",
+                "sha512sum": "55A0DF78488D39520BE0384EC60F580D98074BF5F309589B8B38715020491508C5003ACEA66BBFAB17F8EE960C6E086DFFF6E0561A25B8B55B8454B9C77043D2",
+                "version": "0.0.4",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/cure-me-0.0.4.jar",
                 "requires": "^1.0.0"
             }
         ]
