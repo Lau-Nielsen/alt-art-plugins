@@ -143,6 +143,13 @@
                 "version": "0.0.2",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.2.jar",
                 "requires": "^1.0.0"
+            },
+            {
+                "date": "2025-02-12",
+                "sha512sum": "6B7D2F392E051D18E55C9B38D5BB424D547E4D95F08C7F8F384E39E79811910B4CC4D7C5161AFA478E3F06BC4F194FD30EA92A12E74557769C93C62A0FED1498",
+                "version": "0.0.3",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.3.jar",
+                "requires": "^1.0.0"
             }
         ]
     }
