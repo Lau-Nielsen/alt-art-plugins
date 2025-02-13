@@ -153,9 +153,25 @@
             },
             {
                 "date": "2025-02-13",
-                "sha512sum": "9CF2E15C36BCFD04148DFBFA9130EACBC924A088E15560B113D63DAD165AA17D40F5079076AA8B2A255FA946BF01C7C0116997A5115D136EDF9295EDF29321C0",
+                "sha512sum": "31EE557294981D20ABA33A17867713F450EBD687D48EFE4D3F4E4F3F4C625773A3E7E68CF32FFFBD40A5A05BF1E3943F64958F957A82DE24D004B60520A61DA4",
                 "version": "0.0.7",
                 "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.7.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Altarts Fungus",
+        "description": "Altarts Fungus",
+        "id": "altartsfungus-plugin",
+        "releases": [
+            {
+                "date": "2025-02-13",
+                "sha512sum": "C7A6B8C827AD7F7BB05F1249D01137C1521910EB59A01E375FF016D23F9470ECEC1935DA3CD1B6599018A61B7C348A23A21FCA2B003DAA2E7EDD547ACC0C829C",
+                "version": "0.0.1",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.1.jar",
                 "requires": "^1.0.0"
             }
         ]
