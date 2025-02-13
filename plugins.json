@@ -159,5 +159,37 @@
                 "requires": "^1.0.0"
             }
         ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Commons",
+        "description": "Commons api",
+        "id": "commons-plugin",
+        "releases": [
+            {
+                "date": "2025-02-13",
+                "sha512sum": "D160DF8196A4F8A3E8B34EEB314DA5499F91AD640FA59B6B47125EFBD98136770DE789C114CCCE8E59F3CC79EC58A93E17CAE71CAAA55BC9F342896A4796A9E5",
+                "version": "0.0.1",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/commons-0.0.1.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/storm",
+        "provider": "Storm 2",
+        "name": "Altarts Fungus",
+        "description": "Altarts Fungus",
+        "id": "altartsfungus-plugin",
+        "releases": [
+            {
+                "date": "2025-02-13",
+                "sha512sum": "6D34B5AD1063A4DBBB123062656A4B4B53FCD0E08A7A5AF98045E069DB7AD4E95C6994522505A188E25C3DD98DEE1D19670F91A56E63CA44D48B1E19E6390A73",
+                "version": "0.0.1",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.1.jar",
+                "requires": "^1.0.0"
+            }
+        ]
     }
 ]
