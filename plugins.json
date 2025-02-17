@@ -8,9 +8,9 @@
         "releases": [
             {
                 "date": "2025-02-17",
-                "sha512sum": "83313EEAA6512F124592B0639F016ED5FCF6A366CB6D37B97AB31BD1B14D424CA5EEED8955843D158532D10B840E190ECBF03883F86AC015A3D707090F93C0BC",
-                "version": "0.0.6",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.6.jar",
+                "sha512sum": "4513C7DD4A61DA88D5CCB53F8DC2D21EC6215221CA39C47932DEDD95643B9E767CC7CCA832C3335BA8DCFA507F02F43306F5DE5BC542BB082A13927B1950510D",
+                "version": "0.0.7",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.7.jar",
                 "requires": "^1.0.0"
             }
         ]
@@ -56,9 +56,9 @@
         "releases": [
             {
                 "date": "2025-02-17",
-                "sha512sum": "3322D38349EE92909E93C01DE50FABA0107DC9F09024DA970C62E97926292E019709BF6E77DDA20D0E0250F190AF0AB7AB3101703B71353E27051A46DF4C82C2",
-                "version": "0.0.6",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.6.jar",
+                "sha512sum": "43C54D48FDB0BAFBC2F01359B4798A497BA47D6A8FD1C4F04EDB750D360A9A43FA4397DF0E95165C02D57AD98CB59B78E59728657B1F8C16F9B635C96181D7FB",
+                "version": "0.0.7",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.7.jar",
                 "requires": "^1.0.0"
             }
         ]
