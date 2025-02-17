@@ -56,9 +56,9 @@
         "releases": [
             {
                 "date": "2025-02-17",
-                "sha512sum": "43C54D48FDB0BAFBC2F01359B4798A497BA47D6A8FD1C4F04EDB750D360A9A43FA4397DF0E95165C02D57AD98CB59B78E59728657B1F8C16F9B635C96181D7FB",
-                "version": "0.0.7",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.7.jar",
+                "sha512sum": "64DC9884FEEABEE3354ED155C48A5C36DA25B55E16231E42D4C45ED58346BC2637085131F398BAD582C8AACD3B3D2E5223AF652E497AEE8F7F2CC3D4FEC68093",
+                "version": "0.0.8",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.8.jar",
                 "requires": "^1.0.0"
             }
         ]
@@ -120,9 +120,9 @@
         "releases": [
             {
                 "date": "2025-02-17",
-                "sha512sum": "75CCE718264D4E118E20339B56AD6CCC45089D8DB5F8E3F783DC1C67ABABAE1CFB41499F8546103750B332F8AA8EA9F63EBF78C47F9E1C94AA386CF7E1284E43",
-                "version": "0.0.12",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.12.jar",
+                "sha512sum": "6BFBFCFA912A468E32601B0C1C22037994E082F2BCD7667BA63C409ECBA5462C18F9706C46FF40A15783C0B6CDB513E37036646C6C34AA7A95ABA6425C095F1C",
+                "version": "0.0.13",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/volcanic-mine-0.0.13.jar",
                 "requires": "^1.0.0"
             }
         ]
