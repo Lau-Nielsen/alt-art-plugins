@@ -56,9 +56,9 @@
         "releases": [
             {
                 "date": "2025-02-19",
-                "sha512sum": "4DBD16F32192E1890A67558FCBF2CC4795524F2C4090A5343ED1FBCB5F88537573ECA3EE6ACFEF9D9231B404C032F0161CFF1D6B3D2D5E798813317441356A0C",
-                "version": "0.0.8",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.8.jar",
+                "sha512sum": "F157C266DEA46354B6E26961E5E66666D3CEAD09FE3F4ED1D3271E11BCED8C1FE1CC1217EDD2C22EE614C03690007F960584F42C571F580F44409BB88B5F89D7",
+                "version": "0.0.9",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/fungus-0.0.9.jar",
                 "requires": "^1.0.0"
             }
         ]
