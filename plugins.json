@@ -8,9 +8,9 @@
         "releases": [
             {
                 "date": "2025-02-20",
-                "sha512sum": "7CF273C2DAA5E0C3A35114FBC35A5773942BD9CCAB6D3AB75812294F446E24C080C022356250AFE1D2AD9B2F89FFC6133B3D01352A073272FC5D82A5F10CD107",
-                "version": "0.0.13",
-                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.13.jar",
+                "sha512sum": "588A503C8F2AC7F04EE83E35714DA225CCA78CBF18D6432B7F3D548EB237FAD4165390DF7E23AC613D912F07A27AA39EE8BE637FD9FE2968B8B90A41434FAFA0",
+                "version": "0.0.14",
+                "url": "https://raw.githubusercontent.com/lau-nielsen/alt-art-plugins/main/aio-rc-altar-0.0.14.jar",
                 "requires": "^1.0.0"
             }
         ]
